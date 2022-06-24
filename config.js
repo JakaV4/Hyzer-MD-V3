@@ -1,32 +1,32 @@
 //=============『 Utama 』================== //
-global.owner = ['6285822347348'] 
+global.owner = ['6285785694474'] 
 global.mods = [] 
 global.prems = [''] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ArullOfc'
-global.numberowner = '6285822347348'
-global.instagram = 'https://instagram.com/sahrulwara_____'
-global.github = 'https://github.com/sahrull11'
-global.dana = '085822347348'
-global.pulsa = '085822347348,083843192208'
-global.gopay = ''
+global.nameowner = 'ζλκλꪶ͢Kunꫂ⁩'
+global.numberowner = '6285785694474'
+global.instagram = 'https://instagram.com/itsme_nitsu'
+global.github = 'https://github.com/JakaV4'
+global.dana = '081335334848'
+global.pulsa = '081335334848,081335334848'
+global.gopay = '085785694474'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ArullBotzMD'
-global.gc = 'https://chat.whatsapp.com/Hs5rHr27xu49VRLgdliMfR'
-global.web = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'Jesīcaꪶ͢Botzꫂ⁩'
+global.gc = 'https://chat.whatsapp.com/IVwv4LpYXP75nNFz6f58Z2'
+global.web = 'https://instagram.com/itsme_nitsu' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = 'Permanen 15.000\n1 bulan 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/3394e5bbb7b0a728cf674.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/3394e5bbb7b0a728cf674.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '❚█══ArullBotz‖MD‖'
+global.wm = '❚█Jesīcaꪶ͢Botzꫂ⁩'
 global.watermark = wm
-global.wm2 = '                     「 ArullBotzMD あ⁩ 」'
-global.wm3 = '⫹⫺ ❚█══ArullBotz‖MD‖'
+global.wm2 = '                     「 Jesīcaꪶ͢Botzꫂ⁩ あ⁩ 」'
+global.wm3 = '⫹⫺ ❚█Jesīcaꪶ͢Botzꫂ⁩'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg'
