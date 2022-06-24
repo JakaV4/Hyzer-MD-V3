@@ -16,7 +16,7 @@ global.gopay = '085785694474'
 global.namebot = 'Jesīcaꪶ͢Botzꫂ⁩'
 global.gc = 'https://chat.whatsapp.com/IVwv4LpYXP75nNFz6f58Z2'
 global.web = 'https://instagram.com/itsme_nitsu' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = 'Permanen 15.000\n1 bulan 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
+global.price1 = '*SEWA BOT*\n┏━━〔 ıll HARGA llı 〕━\n┃⌬ 5k 7 HARI\n┃⌬ 10K 1 BULAN\n┃⌬ 15K 2 BULAN\n┃⌬ 20K PERMANEN\n┃⌬ VIA DANA/GOPAY\n┃⌬ (VIA PULSA +5K)\n┗━━━━━━━━━━━━━㉿\n┏━━〔 ıll KELEBIHAN llı 〕━\n◎ BOT ON 24 JAM NONSTOP\n◎ FITUR BANYAK\n◎ FAST RESPON\n◎ DAN LAIN LAIN\n◎ MINAT? HUBUNGI NOMOR\n┗━━━━━━━━━━━━━\n ♡ ㅤ     ❍ㅤ       ⎙ㅤ       ⌲\n\n⫹⫺ NO OWNER  :\nWa.me/6285785694474\n⫹⫺ PENTING!! : JANGAN SPAM, TO THE POIN AJA!'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/3394e5bbb7b0a728cf674.jpg' //ganti jadi foto bot mu
